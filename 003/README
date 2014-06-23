@@ -1,0 +1,8 @@
+This is Towers of Hanoi written in swift using the Playground (a REPL for swift).
+
+The source code is in MyPlayground.playground/section-1.swift
+
+If you want to load it up, you need to get XCode 6 beta, which is only available
+to subscribed developers for Apple.
+
+If you want to see a screen shot of the playground look at screenshot.png
